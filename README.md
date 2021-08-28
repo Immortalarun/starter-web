@@ -15,3 +15,5 @@ This is a sample command
 ## How To Contribute
 
 This is to test diff on the files
+
+Please fork this repository
