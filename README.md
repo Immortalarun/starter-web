@@ -18,3 +18,6 @@ This is a sample command
 This is to test diff on the files
 
 Please fork this repository
+
+#CopyRight
+All rights reserved
