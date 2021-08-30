@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 This is a sample command
 
+## Update from dev 1
+
 ## How To Contribute
 
 This is to test diff on the files
